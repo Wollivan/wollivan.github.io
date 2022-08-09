@@ -1,3 +1,5 @@
 # wollivan.github.io
 
-This is the readme
+This is Tim's personal homepage
+
+Hello world!
